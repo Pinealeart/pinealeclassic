@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <url>
+    <loc>https://pinealeclassic.com/articoli/sciopero-teatri-27-ottobre-contratto-federvivo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Pineale Classic</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T16:00:00.000Z</news:publication_date>
+      <news:title>Il 27 ottobre si fermano i teatri: attori, orchestrali e tecnici in sciopero per il contratto</news:title>
+    </news:news>
+  </url>
+  
+  <url>
+    <loc>https://pinealeclassic.com/articoli/fenice-fedora-giordano-inaugurazione-renzetti-de-ana-agresta/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Pineale Classic</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T15:00:00.000Z</news:publication_date>
+      <news:title>Fedora torna alla Fenice dopo cinquantotto anni e apre la stagione</news:title>
+    </news:news>
+  </url>
+  
+</urlset>
