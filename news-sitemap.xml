@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <url>
+    <loc>https://pinealeclassic.com/articoli/rai-nuovamusica-filidei-tre-quadri-baglini-ceccherini-hosokawa-maderna/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Pineale Classic</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T11:00:00.000Z</news:publication_date>
+      <news:title>Tre quadri di Filidei torna a Torino, questa volta con il pubblico in sala</news:title>
+    </news:news>
+  </url>
+  
+  <url>
+    <loc>https://pinealeclassic.com/articoli/corti-mozart-ultime-tre-sinfonie-orchestra-rai-torino/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Pineale Classic</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:00:00.000Z</news:publication_date>
+      <news:title>Francesco Corti debutta con l&#39;Orchestra Rai: le ultime tre sinfonie di Mozart in una sera</news:title>
+    </news:news>
+  </url>
+  
+</urlset>

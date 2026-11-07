@@ -1,0 +1,7 @@
+# Pineale Classic — robots.txt
+User-agent: *
+Allow: /
+Disallow: /search-index.json
+
+Sitemap: https://pinealeclassic.com/sitemap.xml
+Sitemap: https://pinealeclassic.com/news-sitemap.xml
