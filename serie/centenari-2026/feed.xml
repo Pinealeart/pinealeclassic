@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Centenari 2026 — Pineale Classic</title>
+    <link>https://pinealeclassic.com/serie/centenari-2026/</link>
+    <atom:link href="https://pinealeclassic.com/serie/centenari-2026/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Compositori e opere che compiono cent&#39;anni nel 2026: Henze, Feldman, Evangelisti e Bortolotti, la prima di Turandot.</description>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 31 Oct 2026 11:00:00 +0000</lastBuildDate>
+    
+    <item>
+      <title>Henze a cent&#39;anni: le ventidue Voices di un compositore schierato</title>
+      <link>https://pinealeclassic.com/articoli/henze-voices-centenario-boccadoro-new-european-ensemble-roma/</link>
+      <guid isPermaLink="true">https://pinealeclassic.com/articoli/henze-voices-centenario-boccadoro-new-european-ensemble-roma/</guid>
+      <pubDate>Sat, 31 Oct 2026 11:00:00 +0000</pubDate>
+      <category>Centenari 2026</category>
+      <description>Mercoledì 4 novembre al Teatro Studio dell&#39;Auditorium Parco della Musica, Carlo Boccadoro dirige il New European Ensemble nel ciclo del 1973 su testi di Brecht, Ungaretti, Ho Chi Minh e Padilla. Santa Cecilia e Romaeuropa lo propongono per il centenario di Hans Werner Henze.</description>
+      <media:content url="https://pinealeclassic.com/assets/img/articoli/henze-800.jpg" medium="image"/>
+    </item>
+    
+    <item>
+      <title>Nuova Consonanza, il 63° festival si apre con i cent&#39;anni di Evangelisti e Bortolotti</title>
+      <link>https://pinealeclassic.com/articoli/nuova-consonanza-63-festival-evangelisti-bortolotti/</link>
+      <guid isPermaLink="true">https://pinealeclassic.com/articoli/nuova-consonanza-63-festival-evangelisti-bortolotti/</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
+      <category>Centenari 2026</category>
+      <description>Dal 6 novembre al 20 dicembre a Roma. Il concerto inaugurale celebra il centenario di Franco Evangelisti e Mauro Bortolotti; poi Steve Reich con Ars Ludi, l&#39;improvvisazione con l&#39;International Contemporary Ensemble e un monografico Manoury.</description>
+      <media:content url="https://pinealeclassic.com/assets/img/articoli/nuovaconsonanza-800.jpg" medium="image"/>
+    </item>
+    
+    <item>
+      <title>Feldman, la pittura e il tempo: a Parma il centenario riparte dalla Rothko Chapel</title>
+      <link>https://pinealeclassic.com/articoli/feldman-parma-prometeo-suono-pittura-tempo/</link>
+      <guid isPermaLink="true">https://pinealeclassic.com/articoli/feldman-parma-prometeo-suono-pittura-tempo/</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Centenari 2026</category>
+      <description>A Parma il ciclo per il centenario di Feldman parla della Rothko Chapel senza eseguire Rothko Chapel: più che il monumento, cerca il metodo, che cosa la pittura abbia insegnato a un compositore.</description>
+      <media:content url="https://pinealeclassic.com/assets/img/articoli/parma-800.jpg" medium="image"/>
+    </item>
+    
+    <item>
+      <title>Cent’anni di Turandot: la Scala riprende Livermore con Pirozzi e Alagna</title>
+      <link>https://pinealeclassic.com/articoli/centanni-di-turandot-la-scala-ricelebra-puccini-con-anna-pir/</link>
+      <guid isPermaLink="true">https://pinealeclassic.com/articoli/centanni-di-turandot-la-scala-ricelebra-puccini-con-anna-pir/</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Centenari 2026</category>
+      <description>L’ultima opera di Puccini compie un secolo dalla prima assoluta. La Scala la ripropone nella regia di Davide Livermore, con Nicola Luisotti sul podio: dieci recite fino al 29 aprile.</description>
+      <media:content url="https://pinealeclassic.com/assets/img/articoli/puccini-1924-800.jpg" medium="image"/>
+    </item>
+    
+  </channel>
+</rss>

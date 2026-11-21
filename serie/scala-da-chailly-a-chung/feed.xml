@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>La Scala, da Chailly a Chung — Pineale Classic</title>
+    <link>https://pinealeclassic.com/serie/scala-da-chailly-a-chung/</link>
+    <atom:link href="https://pinealeclassic.com/serie/scala-da-chailly-a-chung/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>L&#39;ultimo autunno di Riccardo Chailly da direttore musicale e la prima stagione di Myung-Whun Chung.</description>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 04 Nov 2026 11:00:00 +0000</lastBuildDate>
+    
+    <item>
+      <title>Chailly porta alla Scala la Nona di Bruckner con il finale ricostruito</title>
+      <link>https://pinealeclassic.com/articoli/chailly-bruckner-nona-finale-ricostruito-scala-filarmonica/</link>
+      <guid isPermaLink="true">https://pinealeclassic.com/articoli/chailly-bruckner-nona-finale-ricostruito-scala-filarmonica/</guid>
+      <pubDate>Wed, 04 Nov 2026 11:00:00 +0000</pubDate>
+      <category>La Scala, da Chailly a Chung</category>
+      <description>Quasi sempre la Nona di Bruckner finisce con l&#39;Adagio. Chailly, nell&#39;ultimo autunno da direttore musicale della Scala, la esegue con il Finale ricostruito: restituisce alla sinfonia l&#39;architettura in quattro tempi, a costo di ascoltare musica scritta in parte da altre mani.</description>
+      <media:content url="https://pinealeclassic.com/assets/img/articoli/bruckner-cielo-800.jpg" medium="image"/>
+    </item>
+    
+    <item>
+      <title>Scala, esaurita la Prima di Otello con Chung e Michieletto</title>
+      <link>https://pinealeclassic.com/articoli/scala-otello-prima-esaurita-chung-michieletto/</link>
+      <guid isPermaLink="true">https://pinealeclassic.com/articoli/scala-otello-prima-esaurita-chung-michieletto/</guid>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
+      <category>La Scala, da Chailly a Chung</category>
+      <description>Il 7 dicembre la Scala inaugura la stagione con l&#39;opera di Verdi, Myung-Whun Chung sul podio e Damiano Michieletto alla sua prima serata inaugurale. Biglietti esauriti: le vendite si erano aperte il 7 ottobre.</description>
+      <media:content url="https://pinealeclassic.com/assets/img/articoli/otello-ximenes-800.jpg" medium="image"/>
+    </item>
+    
+  </channel>
+</rss>

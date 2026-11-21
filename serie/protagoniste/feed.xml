@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Protagoniste — Pineale Classic</title>
+    <link>https://pinealeclassic.com/serie/protagoniste/</link>
+    <atom:link href="https://pinealeclassic.com/serie/protagoniste/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Dieci domande alle protagoniste della musica: interpreti, direttrici d&#39;orchestra, compositrici.</description>
+    <language>it-it</language>
+    <lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+    
+    <item>
+      <title>Veronique Vanhoucke, il corpo e la ribellione</title>
+      <link>https://pinealeclassic.com/articoli/veronique-vanhoucke-intervista-corpo-ribellione/</link>
+      <guid isPermaLink="true">https://pinealeclassic.com/articoli/veronique-vanhoucke-intervista-corpo-ribellione/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Protagoniste</category>
+      <description>Il corpo come mezzo per esprimere la musica, non per distrarre da essa; una ribellione che non ha bisogno di rumore; un progetto tutto personale ancora da osare: le risposte di una pianista che rifiuta le categorie.</description>
+      <media:content url="https://pinealeclassic.com/assets/img/articoli/vanhoucke-decloedt-800.jpg" medium="image"/>
+    </item>
+    
+  </channel>
+</rss>

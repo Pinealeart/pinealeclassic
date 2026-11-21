@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <url>
+    <loc>https://pinealeclassic.com/articoli/gabetta-chamayou-santa-cecilia-britten-grieg-rachmaninov/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Pineale Classic</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T00:01:00.000Z</news:publication_date>
+      <news:title>Gabetta e Chamayou a Santa Cecilia: tre sonate tenute a battesimo dall&#39;autore al pianoforte</news:title>
+    </news:news>
+  </url>
+  
+  <url>
+    <loc>https://pinealeclassic.com/articoli/corrado-augias-musica-per-me-beethoven-massenzio/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Pineale Classic</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T15:45:00.000Z</news:publication_date>
+      <news:title>Corrado Augias, l&#39;ascoltatore: la scintilla di una Pastorale a Massenzio</news:title>
+    </news:news>
+  </url>
+  
+</urlset>
