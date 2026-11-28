@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light only">
+<meta name="supported-color-schemes" content="light">
+<title>Pineale Classic</title>
+<style>
+@font-face { font-family: 'Cormorant Garamond'; font-style: normal; font-weight: 300 700; src: url(https://pinealeclassic.com/assets/fonts/cormorant-garamond-latin-co3bmX5slC.woff2) format('woff2'); }
+@font-face { font-family: 'Cormorant Garamond'; font-style: italic; font-weight: 300 700; src: url(https://pinealeclassic.com/assets/fonts/cormorant-garamond-latin-co3ZmX5slC.woff2) format('woff2'); }
+@font-face { font-family: 'Source Serif 4'; font-style: normal; font-weight: 200 900; src: url(https://pinealeclassic.com/assets/fonts/source-serif-4-latin.woff2) format('woff2'); }
+@font-face { font-family: 'Source Serif 4'; font-style: italic; font-weight: 200 900; src: url(https://pinealeclassic.com/assets/fonts/source-serif-4-italic-latin.woff2) format('woff2'); }
+@font-face { font-family: 'DM Sans'; font-style: normal; font-weight: 100 1000; src: url(https://pinealeclassic.com/assets/fonts/dm-sans-latin-rP2Yp2ywxg.woff2) format('woff2'); }
+body { margin: 0; padding: 0; background: #fcfaf6; -webkit-text-size-adjust: 100%; }
+table { border-collapse: collapse; }
+
+.pc-body { font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif !important; color: #3b3439 !important; }
+.pc-body p { margin: 0 0 16px !important; font-size: 17px !important; line-height: 1.7 !important; color: #2b2529 !important; }
+.pc-body h4 { margin: 0 0 10px !important; font-family: 'DM Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important; font-size: 11px !important; font-weight: 500 !important; line-height: 1.4 !important; letter-spacing: 0.2em !important; text-transform: uppercase !important; color: #b4472f !important; }
+.pc-body h4 + p { margin: 8px 0 34px !important; padding: 0 0 0 20px !important; border: 0 !important; border-left: 2px solid #b08a3a !important; background: none !important; font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif !important; font-style: italic !important; font-size: 22px !important; line-height: 1.5 !important; color: #1a1418 !important; }
+.pc-body h4 + p em, .pc-body h4 + p i { font-style: normal !important; }
+.pc-body h4 + p + p { margin: -22px 0 34px !important; font-family: 'DM Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important; font-style: normal !important; font-size: 11px !important; letter-spacing: 0.2em !important; text-transform: uppercase !important; text-align: right !important; color: #7f5e22 !important; }
+.pc-body h1 { margin: 44px 0 30px !important; padding: 14px 0 12px !important; border: 0 !important; border-top: 1px solid #c9a95c !important; border-bottom: 1px solid rgba(26, 20, 24, 0.12) !important; border-radius: 0 !important; background: none !important; font-family: 'DM Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important; font-size: 11px !important; font-weight: 500 !important; line-height: 1 !important; letter-spacing: 0.32em !important; text-transform: uppercase !important; text-align: center !important; color: #7f5e22 !important; }
+.pc-body h2 { margin: 0 0 14px !important; font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif !important; font-size: 32px !important; font-weight: 500 !important; line-height: 1.12 !important; color: #1a1418 !important; }
+.pc-body h3 { margin: 0 0 8px !important; font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif !important; font-size: 24px !important; font-weight: 500 !important; line-height: 1.2 !important; color: #1a1418 !important; }
+.pc-body h2 a, .pc-body h3 a { color: #1a1418 !important; text-decoration: none !important; }
+.pc-body a { color: #b4472f !important; text-decoration: none !important; }
+.pc-body p a { font-family: 'DM Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important; font-size: 11px !important; font-weight: 500 !important; letter-spacing: 0.2em !important; text-transform: uppercase !important; color: #b4472f !important; text-decoration: none !important; }
+.pc-body img { display: block !important; width: 100% !important; max-width: 100% !important; height: auto !important; margin: 0 0 18px !important; border: 0 !important; border-radius: 16px !important; }
+.pc-body hr { margin: 30px 0 !important; border: 0 !important; border-top: 1px solid rgba(7, 58, 66, 0.12) !important; height: 0 !important; }
+.pc-body h3 + p { font-size: 15px !important; line-height: 1.6 !important; color: #4a4247 !important; margin-bottom: 12px !important; }
+.pc-body a.email-button, .pc-body .email-button a, .pc-body a.btn, .pc-body .btn a, .pc-body a.button, .pc-body .button a, .pc-body a.ck-button, .pc-body .ck-button a, .pc-body a.cta, .pc-body .cta a { display: inline-block !important; margin: 4px 0 !important; padding: 15px 30px !important; border-radius: 999px !important; background: #b4472f !important; background-color: #b4472f !important; color: #ffffff !important; font-family: 'DM Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important; font-size: 12px !important; font-weight: 500 !important; letter-spacing: 0.18em !important; text-transform: uppercase !important; text-decoration: none !important; border: 0 !important; }
+.pc-body .email-button, .pc-body .btn, .pc-body .button, .pc-body .ck-button, .pc-body .cta { background: #b4472f !important; background-color: #b4472f !important; border-radius: 999px !important; border: 0 !important; }
+.pc-body table { margin: 6px 0 26px !important; }
+
+.pc-foot, .pc-foot p { font-family: 'DM Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.7; color: #c9d9d6; text-align: center; }
+.pc-foot a { color: #e6c274 !important; text-decoration: none; }
+@media (max-width: 620px) {
+  .pc-prog-cop, .pc-prog-txt { display: block !important; width: auto !important; }
+  .pc-prog-cop { padding: 22px 22px 0 !important; }
+  .pc-prog-txt { padding: 16px 22px 24px !important; }
+  .pc-pad { padding-left: 22px !important; padding-right: 22px !important; }
+  .pc-body h2 { font-size: 26px !important; }
+}
+</style>
+</head>
+<body style="margin:0;padding:0;background:#fcfaf6;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#fcfaf6" style="background:#fcfaf6;">
+<tr><td align="center" style="padding:0 0 28px;">
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:100%;max-width:600px;background:#fcfaf6;">
+  <tr><td style="padding:0;">
+    <a href="https://pinealeclassic.com/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=testata"><img src="https://pinealeclassic.com/assets/img/newsletter-testata.png" width="600" alt="Pineale Classic. Rivista di musica classica e contemporanea" style="display:block;width:100%;max-width:600px;height:auto;border:0;"></a>
+  </td></tr>
+  <tr><td class="pc-pad" style="padding:22px 32px 0;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" bgcolor="#073a42" background="https://pinealeclassic.com/assets/img/newsletter-piede.jpg" style="border-radius:22px;background-color:#073a42;background-image:url(https://pinealeclassic.com/assets/img/newsletter-piede.jpg);background-size:cover;background-position:center;">
+  <tr>
+    <td class="pc-prog-cop" width="168" valign="top" style="padding:24px 0 24px 24px;width:168px;">
+      <a href="https://pinealeclassic.com/programma-di-sala/?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=programma"><img src="https://pinealeclassic.com/assets/img/newsletter-programma.jpg" width="144" alt="Copertina del Programma di sala del mese" style="display:block;width:144px;height:144px;border:0;border-radius:14px;"></a>
+    </td>
+    <td class="pc-prog-txt" valign="middle" style="padding:22px 26px 22px 22px;font-family:'DM Sans','Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <p style="margin:0 0 8px;font-size:10px;font-weight:500;letter-spacing:0.26em;text-transform:uppercase;color:#e6c274;">Programma di sala · ogni mese</p>
+      <p style="margin:0 0 8px;font-family:'Cormorant Garamond',Georgia,'Times New Roman',serif;font-size:25px;line-height:1.12;color:#f6ede4;">Ascolti come in sala, e intanto <em style="color:#f2d08c;">leggi</em></p>
+      <p style="margin:0 0 16px;font-size:14px;line-height:1.6;color:#dbe7e5;">Ogni mese un percorso d'ascolto scelto dalla redazione, con una scheda per ogni brano. Gratis, sul sito.</p>
+      <a href="https://pinealeclassic.com/programma-di-sala/?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=programma" style="display:inline-block;padding:11px 22px;border-radius:999px;background-color:#f2a08a;color:#3a140c;font-size:11px;font-weight:500;letter-spacing:0.18em;text-transform:uppercase;text-decoration:none;">&#9654;&nbsp; Ascolta il numero del mese</a>
+    </td>
+  </tr>
+</table>
+
+  </td></tr>
+  <tr><td class="pc-body pc-pad" style="padding:30px 44px 20px;font-family:'Source Serif 4',Georgia,'Times New Roman',serif;color:#3b3439;">
+{{ message_content }}
+  </td></tr>
+  <tr><td style="padding:0 12px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr><td class="pc-foot pc-pad" bgcolor="#073a42" background="https://pinealeclassic.com/assets/img/newsletter-piede.jpg" style="padding:34px 44px 36px;border-radius:22px;background-color:#073a42;background-image:url(https://pinealeclassic.com/assets/img/newsletter-piede.jpg);background-size:cover;background-position:center;">
+    <p style="margin:0 0 14px;color:#e6c274;font-size:14px;letter-spacing:0;">&#9670;</p>
+    <p style="margin:0 0 10px;"><a href="https://pinealeclassic.com/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=piede">pinealeclassic.com</a> &nbsp;·&nbsp; <a href="https://pinealeclassic.com/agenda/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=piede">Agenda</a> &nbsp;·&nbsp; <a href="mailto:info@pinealeclassic.com">Scrivi alla redazione</a></p>
+    <p style="margin:0 0 10px;">Ricevi questa mail per la tua iscrizione alla newsletter di Pineale Classic.<br><a href="{{ unsubscribe_url }}">Cancella l'iscrizione</a></p>
+    <p style="margin:0;font-size:11px;">{{ address }}</p>
+  </td></tr></table></td></tr>
+</table>
+</td></tr>
+</table>
+</body>
+</html>

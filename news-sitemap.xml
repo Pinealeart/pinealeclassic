@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <url>
+    <loc>https://pinealeclassic.com/articoli/kurtag-100-ex-novo-ensemble-fenice-hommage-schumann/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Pineale Classic</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T17:52:00.000Z</news:publication_date>
+      <news:title>Kurtág a cent&#39;anni: alla Fenice il suo omaggio a Schumann accanto ai Racconti di fiabe</news:title>
+    </news:news>
+  </url>
+  
+  <url>
+    <loc>https://pinealeclassic.com/articoli/memorial-corrado-augias-santa-cecilia-piovani-schubert/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Pineale Classic</news:name>
+        <news:language>it</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T17:51:00.000Z</news:publication_date>
+      <news:title>Santa Cecilia ricorda Corrado Augias con Piovani e l&#39;Andante di Schubert</news:title>
+    </news:news>
+  </url>
+  
+</urlset>
